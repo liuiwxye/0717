@@ -1,5 +1,0 @@
-Git is a distributed viersion control system.
-git is free software.
-git tracks changes of filess.
-git hello world
-this is my 1.txt of files
